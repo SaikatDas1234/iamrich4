@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
             title: Center(
               child: Text(
                 'Richness',
-                style: TextStyle(color: Colors.yellowAccent, fontSize: 35),
+                style: TextStyle(color: Colors.yellowAccent, fontSize: 45),
               ),
             ),
             backgroundColor: Colors.lightGreen,
